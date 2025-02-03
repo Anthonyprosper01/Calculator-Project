@@ -78,7 +78,7 @@ button:nth-child(8) {
 
 button:nth-child(4) {
     font-size: 20px;
-    background-color: aqua;
+    background-color: rgb(47, 0, 255);
 }
 
 button:nth-child(12) {
